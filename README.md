@@ -4,6 +4,8 @@
 ![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey)
 ![Swift](https://img.shields.io/badge/Swift-6.0-orange)
 
+_Source repo in Enterprise: https://github.com/Lyse-AS/altibox-tv-valistream-hls_
+
 Validates and monitors HLS streams against RFC 8216 and Apple HLS authoring rules. 
 
 📥 Fetches every master/media-playlist → **validates agains HLS specs**
